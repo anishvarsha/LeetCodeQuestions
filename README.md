@@ -1,3 +1,5 @@
-#Leetcode Solutions#
+Leetcode Solutions
+=============
+__My accepted Leetcode Solutions__
 
-###My accepted Leetcode Solutions###
+_languages: Python, Java_
